@@ -1,5 +1,11 @@
 #!/usr/bin/python3
+""" Inizializate """
+
+
 def minOperations(n):
+    """
+        0. Minimum Operations
+    """
     if (not isinstance(n, int)):
         return 0
 
