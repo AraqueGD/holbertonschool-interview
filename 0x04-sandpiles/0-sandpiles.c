@@ -3,7 +3,6 @@
 /**
  * _print_grid - the a grid
  * @grid: grid to print
- *
  * Return: Nothing
  */
 void _print_grid(int grid[3][3])
