@@ -1,11 +1,10 @@
 #!/usr/bin/python3
-"""
-Validate utf-8
+"""Call this function to find and utf-8 character"""
 
-"""
+
 def validUTF8(data):
     """
-        Function Valid UTF-8
+    Say if an number is a valid UTF-8
     """
     for i in data:
         bin = '{0:08b}'.format(i)
