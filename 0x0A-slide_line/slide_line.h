@@ -9,6 +9,6 @@
 
 int slide_line(int *line, size_t size, int direction);
 void merge_line(int *line, size_t size, int direction);
-void put_together(int *line, size_t size, int direction)
+void put_together(int *line, size_t size, int direction);
 
 #endif /* SLIDE_LINE_H */
